@@ -2,7 +2,8 @@
 lock '3.5.0'
 
 set :application, 'contactbook'
-set :repo_url, 'git@example.com:me/my_repo.git'
+set :repo_url, 'git@github.com:omairrazam/contactBook.git'
+
 
 set :branch, :master
 set :deploy_to, '/home/deploy/contactbook'
